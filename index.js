@@ -21,4 +21,5 @@ function johnLennonFacts(facts){
 function iLoveTheBeatles(numb){
   var emptArr=[];
   do{emptArr.push("I love the Beatles!")}
+  
 }
