@@ -20,11 +20,9 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles(numb){
   var emptArr=[];
-  for (var i =0; i < numb; i++){
-    var nums = numb[i];
-  }
   do{
     emptArr.push("I love the Beatles!")
+    numb++;
   }
   while (numb < 15){
   }
